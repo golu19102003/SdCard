@@ -1,3 +1,7 @@
+![Screenshot 2025-05-25 123536](https://github.com/user-attachments/assets/fb95dce7-8a1e-490e-b01c-6d83baa80271)
+![Screenshot 2025-05-25 123525](https://github.com/user-attachments/assets/2dc5b59c-b2e2-4e9d-8959-068b72ed5f17)
+![Screenshot 2025-05-25 123515](https://github.com/user-attachments/assets/e988dc54-e774-4e9f-96af-4ad4a27248f5)
+
 ## SD Card Android Studio App Using Java – Detailed README Description
 **Overview**
 This Android application demonstrates how to read from and write data to the SD card (external storage) using Java in Android Studio. The app provides a simple interface for users to input text, save it to a file on the SD card, retrieve the saved data, and clear the input field. This project is ideal for beginners looking to understand file operations and external storage handling in Android[1][6].
